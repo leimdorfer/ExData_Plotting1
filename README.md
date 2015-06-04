@@ -9,6 +9,9 @@ These two functions only need to be run once so they are commented out in the co
 
 Then each file contains a "plot function" (plot1, plot2,...), which contrusts the graph and saves it out as a PNG.
 
+This page on Stackoverflow was used as reference for adding the abbreviated days to the x axis on the graphs:
+[http://stackoverflow.com/questions/9053437/r-plot-with-an-x-time-axis-how-to-force-the-ticks-labels-to-be-the-days]
+
 
 Original assignment instructions are below
 
